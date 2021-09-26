@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/design-saas/static/css/main.a617e044.chunk.css",
-    "main.js": "/design-saas/static/js/main.ec366031.chunk.js",
-    "main.js.map": "/design-saas/static/js/main.ec366031.chunk.js.map",
-    "runtime-main.js": "/design-saas/static/js/runtime-main.2472a252.js",
-    "runtime-main.js.map": "/design-saas/static/js/runtime-main.2472a252.js.map",
-    "static/js/2.7ff4ddf3.chunk.js": "/design-saas/static/js/2.7ff4ddf3.chunk.js",
-    "static/js/2.7ff4ddf3.chunk.js.map": "/design-saas/static/js/2.7ff4ddf3.chunk.js.map",
-    "static/js/3.5bd3f370.chunk.js": "/design-saas/static/js/3.5bd3f370.chunk.js",
-    "static/js/3.5bd3f370.chunk.js.map": "/design-saas/static/js/3.5bd3f370.chunk.js.map",
+    "main.css": "/design-saas/static/css/main.b3e2b806.chunk.css",
+    "main.js": "/design-saas/static/js/main.025ba10c.chunk.js",
+    "main.js.map": "/design-saas/static/js/main.025ba10c.chunk.js.map",
+    "runtime-main.js": "/design-saas/static/js/runtime-main.5132f49a.js",
+    "runtime-main.js.map": "/design-saas/static/js/runtime-main.5132f49a.js.map",
+    "static/js/2.9ad19359.chunk.js": "/design-saas/static/js/2.9ad19359.chunk.js",
+    "static/js/2.9ad19359.chunk.js.map": "/design-saas/static/js/2.9ad19359.chunk.js.map",
+    "static/js/3.5e09661c.chunk.js": "/design-saas/static/js/3.5e09661c.chunk.js",
+    "static/js/3.5e09661c.chunk.js.map": "/design-saas/static/js/3.5e09661c.chunk.js.map",
     "index.html": "/design-saas/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/design-saas/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7ff4ddf3.chunk.js.LICENSE.txt": "/design-saas/static/js/2.7ff4ddf3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/design-saas/static/media/logo.6ce24c58.svg"
+    "static/css/main.b3e2b806.chunk.css.map": "/design-saas/static/css/main.b3e2b806.chunk.css.map",
+    "static/js/2.9ad19359.chunk.js.LICENSE.txt": "/design-saas/static/js/2.9ad19359.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/design-saas/static/media/IBMPlexSans-Regular.1525928a.ttf",
+    "static/media/blog-post-1.9c1074c7.png": "/design-saas/static/media/blog-post-1.9c1074c7.png",
+    "static/media/blog-post-2.a048f957.png": "/design-saas/static/media/blog-post-2.a048f957.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2472a252.js",
-    "static/js/2.7ff4ddf3.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ec366031.chunk.js"
+    "static/js/runtime-main.5132f49a.js",
+    "static/js/2.9ad19359.chunk.js",
+    "static/css/main.b3e2b806.chunk.css",
+    "static/js/main.025ba10c.chunk.js"
   ]
 }
